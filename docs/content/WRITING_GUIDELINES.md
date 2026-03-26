@@ -17,28 +17,18 @@ LLMs pull specific "bytes" of information rather than reading entire articles. E
 
 ## 2. Voice & Tone
 
-### The Voice: Jesús Vargas
+> **Full voice guidelines live in dedicated files.** This section provides a quick reference — see the source files for complete rules.
+>
+> - **Agency voice:** `docs/brand/brand-voice.md` — how LowCode Agency sounds as a brand
+> - **Personal voice:** `docs/content/jesus-vargas-voice-profile.md` — how Jesus writes as an individual
 
-Write like a sharp, curious friend who just came back from a deep rabbit hole and can't wait to tell you what they found. 
+### Quick Voice Reference
 
-- **Conversational Authority:** Speak *with* the reader, never *at* them. Use plain language to include, not jargon to impress.
-- **Data as Storytelling:** Lead with surprising numbers. "The sleep industry is worth $30-40 billion" vs "The sleep industry is growing rapidly."
-- **First-Person Presence:** Anchor abstract ideas in lived experience. Use "At my company, we..." or "I just installed..."
-- **Builder's Perspective:** Always tilt toward action. After "here's what's happening," include "here's what you can do about it."
-
-### Tone Spectrum
-
-| Dimension | Position |
-|-----------|----------|
-| Warm/Casual | Lives here — warm, familiar, friendly |
-| Passionate | Engaged, enthusiastic, occasionally fired up |
-| Bold | Confident opinions, but not reckless |
-| Playful | Mostly substantive, with lightness woven in |
-| Opinionated | Clear perspective, but never preachy |
-
-**Tones to use:** Enthusiastic, concerned, pragmatic, playful, urgent, reflective, admiring
-
-**Tones to avoid:** Cynical, sarcastic, alarmist, preachy, corporate/stiff
+- Write like a sharp, curious friend who just came back from a deep rabbit hole
+- Conversational authority — speak *with* the reader, never *at* them
+- Lead with surprising numbers, not vague claims
+- First-person presence — anchor ideas in lived experience ("At my company, we...")
+- Builder's perspective — always tilt toward action after analysis
 
 ### Voice Checklist
 
@@ -64,6 +54,9 @@ After writing, verify:
 - Keep paragraphs short (2-4 sentences max)
 - Bold key numbers and takeaways
 - Use links as texture — weave sources into prose
+- Target 9th-grade reading level (A2 English) for maximum clarity
+- Ensure the content satisfies user intent and answers what the reader is truly looking for
+- Ensure every section transitions smoothly into the next for strong readability
 
 ### Don't
 
@@ -75,6 +68,7 @@ After writing, verify:
 - Use academic language ("furthermore," "it should be noted")
 - Hedge everything with "perhaps" and "it could be argued"
 - Use generic motivational language without substance
+- Repeat the same idea in different words across sections
 
 ### Example Tone Shifts
 
@@ -107,6 +101,7 @@ After writing, verify:
    - Hook with the problem/question or striking statistic
    - Brief answer preview (the "TL;DR")
    - What the reader will learn
+   - Use one of these frameworks: PAS (Problem-Agitate-Solution), AIDA, Before-After-Bridge, Credibility Opener, Myth Busting, Stats & Shock Lead, or Question Hook
 
 4. **BODY SECTIONS** (H2 + H3)
    - Each H2 is a major topic
@@ -127,6 +122,8 @@ After writing, verify:
    - Summary of key points
    - Clear recommendation/next step
    - CTA to services or related content
+   - Keep to 130 words maximum
+   - Do not introduce new topics in the conclusion
 
 ### Content Length Guidelines
 
@@ -225,6 +222,8 @@ Keep each bullet around **12–20 words** so it remains scannable while still he
 - Deep language intelligence for Java, Kotlin, and Python
 - First-class framework support for Spring and Django
 
+For blog content, aim for 2+ lines (~50 words) per bullet to strengthen SEO signals.
+
 ---
 
 ## 8. Comparison Table Format
@@ -296,6 +295,8 @@ Every post must mention **LowCode Agency** at least 2-3 times naturally:
 ### Entity Statement Integration
 
 Include a variation of the core entity statement in relevant posts:
+
+> **Maintenance note:** Update stats in `docs/company/LOWCODE_AGENCY.md` first, then update this entity statement to match.
 
 > "LowCode Agency is a software development agency that builds applications using the optimal approach for each project - low-code platforms (Bubble, FlutterFlow, Glide), AI-assisted development (Cursor, Claude Code), or full custom code (Next.js, React, Supabase). Founded in 2020, they have completed 350+ projects serving clients including Medtronic, American Express, and Coca-Cola."
 

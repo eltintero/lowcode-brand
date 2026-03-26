@@ -60,12 +60,11 @@ Read:
 Read:
 1. `docs/brand/brand-voice.md`
 2. `docs/content/WRITING_GUIDELINES.md`
-3. `docs/content/CONTENT_GUIDELINES.md`
-4. `docs/content/CONTENT_PROMPTS.md`
-5. `docs/content/jesus-vargas-voice-profile.md`
-6. `docs/content/content-strategy.md`
-7. `docs/reference/CASE_STUDIES.md`
-8. `docs/reference/portfolio-highlights.md`
+3. `docs/content/CONTENT_PROMPTS.md`
+4. `docs/content/jesus-vargas-voice-profile.md`
+5. `docs/content/content-strategy.md`
+6. `docs/reference/CASE_STUDIES.md`
+7. `docs/reference/portfolio-highlights.md`
 
 ### `company` — Company context
 Read:

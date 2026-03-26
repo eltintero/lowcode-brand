@@ -1,5 +1,7 @@
 # Brand Voice — LowCode Agency
 
+> **Note:** Company statistics (team size, project count, clients) referenced in this file are maintained in `docs/company/LOWCODE_AGENCY.md`. Update there first, then here.
+
 ## Brand Essence
 
 LowCode Agency represents modern software built fast, with care and precision. We're confident, clean, technical, and human. We've built 350+ apps, serve clients like Sotheby's and American Express, and operate a 40-person team. We're not scrappy anymore — we speak with earned authority.

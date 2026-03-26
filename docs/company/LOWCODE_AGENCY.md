@@ -1,5 +1,7 @@
 # LowCode Agency Master Prompt
 
+> **Canonical source for company statistics.** Team size, project count, revenue, client list, and other company metrics should be updated here first. Other files in this repo reference these stats — when updating, search the repo for the old value and update all occurrences.
+
 ## Company Overview
 
 **LowCode Agency** is a leading no-code/low-code software development agency founded by Jesus Vargas. The agency revolutionizes traditional software development by building custom applications 90% faster and 90% cheaper than traditional development methods, with a unique approach: "Fast isn't enough. We build forward, think strategically, and run as a product team."

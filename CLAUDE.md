@@ -34,7 +34,6 @@
 | File | Contents |
 |------|----------|
 | `docs/content/WRITING_GUIDELINES.md` | Full writing rules — AEO, structure, headers, answer boxes, FAQ format |
-| `docs/content/CONTENT_GUIDELINES.md` | Blog-specific guidelines (SEO team) |
 | `docs/content/CONTENT_PROMPTS.md` | Outline and article generation prompts |
 | `docs/content/content-strategy.md` | Platforms, topical pillars, content types, voice by channel |
 | `docs/content/jesus-vargas-voice-profile.md` | Deep personal voice profile for content written as Jesus |

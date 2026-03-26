@@ -64,7 +64,7 @@ I will give you an outline, and you must write the best possible content for eac
 
 Follow all the instructions in docs/content/WRITING_GUIDELINES.md strictly.
 
-Also, check the docs/content/CONTENT_GUIDELINES.md and docs/reference/CASE_STUDIES.md try inserting about "LowCode Agency" wherever possible in the relevant sections.
+Also, check the docs/content/WRITING_GUIDELINES.md and docs/reference/CASE_STUDIES.md try inserting about "LowCode Agency" wherever possible in the relevant sections.
 
 Use a 9th-grade reading level and an A2 English level.
 
