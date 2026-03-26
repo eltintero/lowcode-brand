@@ -63,10 +63,11 @@ Leonardo Campos, Mauricio Paz, Regis Soares, Italo Saraiva Gonçalves, Fernando 
 | Allyson Gabriel Sousa Lima | QA Engineer |
 | Niño Abadiez | QA Engineer |
 
-### Marketing (1)
+### Marketing (2)
 
 | Name | Role |
 |------|------|
+| Ana Karen Reyes | Content Manager |
 | Pratik Mali | Technical SEO |
 
 ### Sales (1)
@@ -77,9 +78,7 @@ Leonardo Campos, Mauricio Paz, Regis Soares, Italo Saraiva Gonçalves, Fernando 
 
 ## Open Roles
 
-| Role | Status |
-|------|--------|
-| Content Manager | Hiring |
+None at this time.
 
 ## Project Team Composition
 
