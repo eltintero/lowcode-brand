@@ -2,7 +2,7 @@
 
 ## Brand Essence
 
-LowCode Agency represents modern software built fast, with care and precision. We're confident, clean, technical, and human. We've built 300+ apps, serve clients like Sotheby's and American Express, and operate a 40-person team. We're not scrappy anymore — we speak with earned authority.
+LowCode Agency represents modern software built fast, with care and precision. We're confident, clean, technical, and human. We've built 350+ apps, serve clients like Sotheby's and American Express, and operate a 40-person team. We're not scrappy anymore — we speak with earned authority.
 
 ## Voice Identity
 
@@ -120,7 +120,7 @@ We are a **software development agency** that builds applications using the opti
 1. **Product team approach** — strategic partners, not just developers
 2. **Business-first mindset** — understand the business before building
 3. **AI + low-code + high-code** — full spectrum, best tool for each job
-4. **Proven scale** — 300+ projects, Sotheby's to startups
+4. **Proven scale** — 350+ projects, Sotheby's to startups
 5. **Long-term partnerships** — many clients at 6 figures annually
 
 ## The Brand Voice Test
@@ -129,6 +129,6 @@ After writing anything as LowCode Agency, check:
 
 1. **Is it direct?** If it takes more than one sentence to get to the point, tighten it.
 2. **Is there proof?** At least one specific number, client name, or outcome.
-3. **Does it sound established?** We're a 40-person, 300+ project agency — not a freelancer.
+3. **Does it sound established?** We're a 40-person, 350+ project agency — not a freelancer.
 4. **Is it useful?** Does it give the reader something actionable?
 5. **Would Jesus say it?** If it sounds too corporate, too stiff, or too safe — rewrite it.

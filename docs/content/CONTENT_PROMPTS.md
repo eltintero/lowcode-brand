@@ -62,9 +62,9 @@ I'm writing an article on "{Keyword}", and I need your help.
 
 I will give you an outline, and you must write the best possible content for each section.
 
-Follow all the instructions in {Guidelines} strictly.
+Follow all the instructions in docs/content/WRITING_GUIDELINES.md strictly.
 
-Also, check the {LCA Guidelines} and {LCA Case Studies} try inserting about "LowCode Agency" wherever possible in the relevant sections.
+Also, check the docs/content/CONTENT_GUIDELINES.md and docs/reference/CASE_STUDIES.md try inserting about "LowCode Agency" wherever possible in the relevant sections.
 
 Use a 9th-grade reading level and an A2 English level.
 

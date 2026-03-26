@@ -49,7 +49,7 @@ The single source of truth for everything about LowCode Agency — how we sound,
 | **Accent** | Lime (#C5EF48) — sparingly, dark contexts only |
 | **Typography** | Inter (Bold titles, Regular body, Semi Bold buttons) |
 | **Tagline** | "Fast isn't enough. We build forward, think strategically, and run as a product team." |
-| **Key stats** | 40 team / 300+ projects / 7-figure revenue / Sotheby's, AMEX, Coca-Cola, Zapier |
+| **Key stats** | 40 team / 350+ projects / 7-figure revenue / Sotheby's, AMEX, Coca-Cola, Zapier |
 
 ## Setup (Claude Code Plugin)
 
@@ -125,6 +125,7 @@ lowcode-brand/
 │   │   └── jesus-vargas-voice-profile.md  # Personal voice profile
 │   └── reference/
 │       ├── CASE_STUDIES.md                # All case studies by platform
+│       ├── portfolio-highlights.md        # Tiered portfolio showcase with metrics and quotes
 │       └── working-preferences.md         # AI working preferences
 └── skills/
     └── prime-brand/
