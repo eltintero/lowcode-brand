@@ -1,0 +1,90 @@
+brand essence
+LowCode Agency represents modern software built fast, with care and precision.
+The brand feels confident, clean, technical, and human.
+Tone is sincere, calm, competent, and forward-looking.
+Avoid hype language, clichés, corporate buzzwords, or playful gimmicks.
+
+logo usage
+The brand name is written as LOW / CODE.
+	•	The forward slash is a core brand symbol and must always be present.
+	•	The slash visually represents technology, motion, and progress.
+	•	Do not replace it with other separators.
+	•	Do not stylize it differently from the rest of the logotype.
+
+When space is limited, prioritize clarity over decoration.
+
+color system
+Use a restrained palette with strong contrast.
+
+Primary
+	•	Main purple: #705CF6
+	•	Dark purple: #38327C
+
+Secondary / accents
+	•	Light purple: #C5BDFA
+	•	Lime accent: #C5EF48 (use sparingly for highlights or emphasis only)
+
+Neutrals
+	•	Off-white background: #FAF9F6
+	•	Light gray: #F4F4F4
+	•	Medium gray: #D9D9D9
+	•	Gray: #B5B5B5
+	•	Dark gray: #414141
+	•	Near black: #282828
+	•	Black: #000000
+
+Rules:
+	•	Default background is off-white or black.
+	•	Purple is the primary brand signal.
+	•	Lime is never dominant.
+	•	Avoid gradients unless extremely subtle.
+
+typography
+Primary typeface: Inter
+
+Hierarchy:
+	•	Titles: Inter Bold
+	•	Body: Inter Regular
+	•	Buttons / UI emphasis: Inter Semi Bold
+
+Rules:
+	•	Clean, modern spacing.
+	•	Clear hierarchy.
+	•	No decorative fonts.
+	•	No handwritten or serif fonts.
+
+layout and UI principles
+	•	Minimal, spacious layouts.
+	•	Strong alignment and grid discipline.
+	•	Generous white space.
+	•	Rounded corners only when functional, not decorative.
+	•	Interfaces should feel calm, intentional, and precise.
+
+Avoid clutter, excessive borders, or ornamental elements.
+
+copy and messaging
+	•	Clear, direct language.
+	•	Focus on outcomes, clarity, and trust.
+	•	Confident but not aggressive.
+	•	Friendly but not casual or jokey.
+
+Avoid emojis, slang, or exaggerated claims.
+
+buttons and CTAs
+	•	Solid purple buttons with white text by default.
+	•	Hover states are subtle.
+	•	CTA language is clear and action-oriented, never salesy.
+
+what to avoid
+	•	Off-brand colors
+	•	Stock-style illustrations
+	•	Overly playful UI
+	•	Heavy shadows or flashy effects
+	•	Trend-driven visuals that reduce clarity
+
+enforcement
+If a design or component choice does not clearly fit this brand system, reject it and choose the simplest compliant alternative.
+
+Every screen, component, and interaction must follow these rules consistently.
+
+⸻
