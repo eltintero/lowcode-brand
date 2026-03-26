@@ -1,5 +1,7 @@
 # About Me — Jesus Vargas
 
+> **Note:** Company statistics referenced in this file are maintained in `docs/company/LOWCODE_AGENCY.md`. Update there first, then here.
+
 ## Who I Am
 
 I'm Jesus Vargas, founder and CEO of **LowCode Agency** — a 40-person software development agency that builds apps 90% faster and cheaper than traditional development. I go by **@eltintero** on social media.

@@ -27,7 +27,6 @@ The single source of truth for everything about LowCode Agency — how we sound,
 | File | What it is | When to use it |
 |------|-----------|----------------|
 | **WRITING_GUIDELINES.md** | Full writing rulebook — AEO optimization, article structure, header formatting, answer boxes, FAQ format, quality checklist | Writing any blog post, landing page, or SEO content |
-| **CONTENT_GUIDELINES.md** | Blog-specific guidelines for the SEO team — tone, structure, keyword rules, intro/conclusion format | Blog posts and SEO articles specifically |
 | **CONTENT_PROMPTS.md** | Prompts for outline creation and article generation | Starting a new blog post from a keyword |
 | **content-strategy.md** | Platform strategy (LinkedIn, Twitter, YouTube, Newsletter), topical pillars, voice by channel, content pipeline | Planning content, choosing the right tone for each platform |
 | **jesus-vargas-voice-profile.md** | Deep personal voice profile — rhetorical habits, tone spectrum, personality traits, formatting DNA | Writing anything in Jesus's voice — newsletters, LinkedIn, Twitter, YouTube scripts |
@@ -119,7 +118,6 @@ lowcode-brand/
 │   │   └── glossary.md                    # Internal terms and acronyms
 │   ├── content/
 │   │   ├── WRITING_GUIDELINES.md          # Full writing rules (AEO, structure)
-│   │   ├── CONTENT_GUIDELINES.md          # Blog-specific guidelines (SEO team)
 │   │   ├── CONTENT_PROMPTS.md             # Outline and article generation prompts
 │   │   ├── content-strategy.md            # Platforms, pillars, voice by channel
 │   │   └── jesus-vargas-voice-profile.md  # Personal voice profile
