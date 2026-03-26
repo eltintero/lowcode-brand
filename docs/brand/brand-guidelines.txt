@@ -22,45 +22,145 @@ Primary
 
 Secondary / accents
 	•	Light purple: #C5BDFA
-	•	Lime accent: #C5EF48 (use sparingly for highlights or emphasis only)
+	•	Purple tint (backgrounds): rgba(112, 92, 246, 0.08)
+	•	Lime accent: #C5EF48 (use sparingly — only for highlights, metric values, and emphasis in dark contexts)
 
 Neutrals
-	•	Off-white background: #FAF9F6
+	•	Off-white / Cream: #FAF9F6 (default page background)
 	•	Light gray: #F4F4F4
-	•	Medium gray: #D9D9D9
-	•	Gray: #B5B5B5
-	•	Dark gray: #414141
-	•	Near black: #282828
+	•	Medium gray / Rule: #D9D9D9 (borders, grid dividers)
+	•	Muted gray: #B5B5B5 (secondary text, metadata)
+	•	Dark gray / Brown: #414141 (body text)
+	•	Near black: #282828 (headings, dark sections)
 	•	Black: #000000
 
-Rules:
-	•	Default background is off-white or black.
-	•	Purple is the primary brand signal.
-	•	Lime is never dominant.
-	•	Avoid gradients unless extremely subtle.
+Color usage rules:
+	•	Default background is cream (#FAF9F6). Dark sections use near black (#282828).
+	•	Purple is the primary brand signal — used for section labels, eyebrows, accent dots, tags, and interactive elements.
+	•	Lime is never dominant. It appears only in dark contexts: metric values, highlights, CTA emphasis, timeline endpoints.
+	•	Dark purple (#38327C) is for CTA sections, banners, and full-bleed accent blocks.
+	•	Light purple (#C5BDFA) is used on dark backgrounds where main purple lacks contrast.
+	•	Gradients are allowed only on timeline tracks (purple → lime) and must be extremely subtle.
 
 typography
-Primary typeface: Inter
+Primary typeface: Inter (loaded from Google Fonts: 300, 400, 500, 600, 700)
 
 Hierarchy:
-	•	Titles: Inter Bold
-	•	Body: Inter Regular
-	•	Buttons / UI emphasis: Inter Semi Bold
+	•	Hero titles: Inter Bold (700), clamp(44px–72px), line-height 1.08, letter-spacing -0.03em
+	•	Section titles (H2): Inter Bold (700), clamp(30px–44px), line-height 1.15, letter-spacing -0.02em
+	•	Subsection titles (H3): Inter Semi Bold (600), 20–22px
+	•	Body text: Inter Regular (400), 14–17px, line-height 1.7
+	•	Section labels / Eyebrows: Inter Semi Bold (600), 10–11px, letter-spacing 0.2–0.25em, uppercase
+	•	Navigation links: Inter Medium (500), 11px, letter-spacing 0.08em, uppercase
+	•	Metadata / Footnotes: Inter Medium (500), 10–11px
+	•	Tags / Badges: Inter Semi Bold (600), 9px, letter-spacing 0.12–0.2em, uppercase
+	•	Metric values (in dark bars): Inter Bold (700), 18px, lime color
 
 Rules:
-	•	Clean, modern spacing.
-	•	Clear hierarchy.
-	•	No decorative fonts.
-	•	No handwritten or serif fonts.
+	•	Tight negative letter-spacing on large headings (-0.02em to -0.03em). Wide positive tracking on labels and tags (0.1em to 0.25em).
+	•	No decorative, handwritten, or serif fonts.
+	•	Anti-aliased rendering (-webkit-font-smoothing: antialiased).
 
 layout and UI principles
-	•	Minimal, spacious layouts.
+	•	Max content width: 1100px, centered.
+	•	Section padding: 80px vertical, 48px horizontal (scales down on mobile).
+	•	Minimal, spacious layouts with generous white space.
 	•	Strong alignment and grid discipline.
-	•	Generous white space.
-	•	Rounded corners only when functional, not decorative.
 	•	Interfaces should feel calm, intentional, and precise.
 
 Avoid clutter, excessive borders, or ornamental elements.
+
+asset style — decks, presentations, images
+This section defines the visual system for all non-web assets: sales decks, pitch documents, presentations, one-pagers, social images, and any visual collateral.
+
+SURFACE AND GRID SYSTEM
+	•	Use cream (#FAF9F6) as the default slide/page background.
+	•	Use near black (#282828) for contrast sections (comparison tables, metric showcases, dark-mode panels).
+	•	Use dark purple (#38327C) for CTA slides, closing slides, and accent banners.
+	•	Content sits within a 1100px-equivalent centered frame with consistent margins.
+	•	Grid items are separated by 1px gaps using the rule color (#D9D9D9) as divider — not visible borders, but a thin line of background between items. This creates a "cut from the same surface" effect.
+	•	Border-radius: 6px for standard cards, 8px for larger containers.
+
+SECTION LABELS (EYEBROWS)
+	•	Every section opens with an eyebrow label: a 24px horizontal purple line followed by uppercase text.
+	•	Font: 10–11px, Semi Bold (600), letter-spacing 0.2–0.25em, uppercase, purple (#705CF6).
+	•	This is the primary way to signal a new section. Do not use decorative dividers.
+
+STAT GRIDS
+	•	Large numbers displayed in 4-column grids (2-column on mobile).
+	•	Number: 48px Bold, near black color, tight letter-spacing (-0.02em).
+	•	Description: 13px body text below the number.
+	•	Grid items separated by 1px rule gaps with cream fill.
+	•	Footnote references: 10px superscript, purple, bold.
+
+BEFORE / AFTER COMPARISON PANELS
+	•	Side-by-side layout. Left panel: cream background (the "before"). Right panel: near black background (the "after").
+	•	Each panel has a tag at the top: uppercase, 9px, bold, with a tinted background.
+	•	Light tag: purple tint background, purple text. Dark tag: purple/20% opacity background, light purple text.
+	•	Ordered lists use numbered circles (20px, purple tint background, purple number).
+	•	Footer bar: muted text on light side, lime highlighted text on dark side.
+
+PROFILE / FEATURE CARDS
+	•	Vertical stack of cards with 2px gaps between them.
+	•	Card structure: header (avatar + role/name/headline) → body (outcomes in 2-column grid) → dark bottom bar (metrics).
+	•	Avatars: 56px circles with subtle tinted backgrounds (purple 10%, lime 20%, dark purple 10%).
+	•	Role labels: 9px uppercase purple, same style as eyebrows.
+	•	Bottom metric bars: near black background, lime values (18px Bold), muted uppercase labels (10px).
+
+TIMELINE / PROCESS VISUALIZATION
+	•	Vertical timeline with a 2px track line, gradient from purple to lime.
+	•	Timeline dots: 38px circles, cream fill, 2px purple border. Last dot uses lime border.
+	•	Hover/active state: filled circle (purple or lime).
+	•	Each node: uppercase purple timestamp → bold title → body description → pill-shaped metric badge.
+	•	Metric badges: 12px Semi Bold, dark purple text, purple 6% opacity background, 20px border-radius.
+
+OUTCOME / OPTION CARDS
+	•	3-column grid (1-column mobile) with 1px rule gaps and 8px border-radius.
+	•	Each card: large icon (32px) → uppercase purple label → bold title → description → example in italics with a top border.
+	•	Hover: background shifts to white (#fff).
+
+DARK FEATURE BLOCKS
+	•	Dark purple (#38327C) background, 8px border-radius.
+	•	Two-column layout: left text (cream) + right stat grid.
+	•	Eyebrow: lime color. Title: cream. Body: cream at 75% opacity.
+	•	Stat cells: white 6% opacity background, lime numbers (28px Extra Bold), muted labels.
+
+COMPARISON TABLES
+	•	Full-width dark section (near black background).
+	•	Table header: uppercase, 10px, wide tracking. Column headers use light purple and lime for differentiation.
+	•	Row borders: white at 6% opacity.
+	•	Cell text: cream at 65% opacity.
+	•	Checkmarks: lime (✓). Dashes: white at 20% opacity (—).
+
+CTA / CLOSING SECTIONS
+	•	Dark purple (#38327C) full-bleed background.
+	•	Two-column: left headline (white) + right glass card.
+	•	Glass card: white 10% opacity background, white 20% opacity border, 6px radius, 40px padding.
+	•	Numbered steps inside the card: 28px circles with white 20% opacity fill, white text.
+
+NAVIGATION BAR
+	•	Fixed top bar, cream at 92% opacity with 12px blur backdrop.
+	•	Bottom border: 1px rule color.
+	•	Brand: 11px uppercase Semi Bold with logo (24px height).
+	•	Links: 11px uppercase Medium, muted gray, purple on hover.
+
+FOOTER
+	•	Minimal: brand name (left), website link in purple (center), date (right).
+	•	11px text, single border-top rule.
+
+ANIMATION AND INTERACTION (for digital assets)
+	•	Scroll reveal: fade-up (translateY 32px → 0) with 0.6s ease-out-expo.
+	•	Staggered children: 80ms delay between items.
+	•	Side-sliding panels: translateX(±24px) with 120ms offset.
+	•	Number count-up: 1200ms with ease-out-quart.
+	•	Hover states: subtle background shifts, 0.2–0.3s transitions. Never flashy.
+	•	Always support prefers-reduced-motion — all animations must degrade gracefully.
+	•	Easing curves: ease-out-quart (0.25, 1, 0.5, 1), ease-out-expo (0.16, 1, 0.3, 1).
+
+RESPONSIVE BEHAVIOR
+	•	768px breakpoint: collapse grids to 1–2 columns, hide nav links, reduce padding.
+	•	480px breakpoint: single-column everything, smaller type, tighter padding.
+	•	Footer stacks vertically. Profile cards stack. Bottom metric bars stack.
 
 copy and messaging
 	•	Clear, direct language.
@@ -79,12 +179,30 @@ what to avoid
 	•	Off-brand colors
 	•	Stock-style illustrations
 	•	Overly playful UI
-	•	Heavy shadows or flashy effects
+	•	Heavy shadows or flashy effects (box-shadow max: 0 1px 12px rgba(0,0,0,0.06))
 	•	Trend-driven visuals that reduce clarity
+	•	Visible borders on cards — use 1px gap dividers instead
+	•	Gradient backgrounds (except timeline tracks)
+	•	Multiple accent colors competing — one purple element and one lime element per section max
+	•	Emojis as primary icons in professional assets (unicode symbols like ▲ ▼ ↕ ⚡ are acceptable)
 
 enforcement
 If a design or component choice does not clearly fit this brand system, reject it and choose the simplest compliant alternative.
 
-Every screen, component, and interaction must follow these rules consistently.
+Every screen, slide, card, and interaction must follow these rules consistently.
 
-⸻
+CSS VARIABLE REFERENCE (for digital assets)
+:root {
+  --cream: #FAF9F6;
+  --dark: #282828;
+  --brown: #414141;
+  --accent: #705CF6;
+  --accent-dark: #38327C;
+  --accent-light: #C5BDFA;
+  --accent-pale: rgba(112, 92, 246, 0.08);
+  --accent-lime: #C5EF48;
+  --muted: #B5B5B5;
+  --rule: #D9D9D9;
+  --ease-out-quart: cubic-bezier(0.25, 1, 0.5, 1);
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
