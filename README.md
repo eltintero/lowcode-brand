@@ -45,8 +45,8 @@ The single source of truth for everything about LowCode Agency — how we sound,
 | | |
 |---|---|
 | **Logo** | LOW / CODE (forward slash always present) |
-| **Primary palette** | Black + Lime (#C5EF48) |
-| **Supporting** | Purple (#705CF6 / #38327C), Off-white (#FAF9F6) |
+| **Primary palette** | Purple (#705CF6), Dark purple (#38327C), Cream (#FAF9F6) |
+| **Accent** | Lime (#C5EF48) — sparingly, dark contexts only |
 | **Typography** | Inter (Bold titles, Regular body, Semi Bold buttons) |
 | **Tagline** | "Fast isn't enough. We build forward, think strategically, and run as a product team." |
 | **Key stats** | 40 team / 300+ projects / 7-figure revenue / Sotheby's, AMEX, Coca-Cola, Zapier |

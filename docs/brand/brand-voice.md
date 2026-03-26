@@ -82,15 +82,14 @@ Written as **LOW / CODE**. The forward slash is a core brand symbol — represen
 
 | Role | Color | Hex |
 |------|-------|-----|
-| Lime | Primary accent, CTAs, highlights | #C5EF48 |
-| Near black | Primary background, headers | #282828 |
-| Black | High-contrast background | #000000 |
-| Off-white | Light background | #FAF9F6 |
-| Main purple | Secondary accent (used sparingly) | #705CF6 |
-| Dark purple | Tertiary | #38327C |
-| Light purple | Subtle accent | #C5BDFA |
+| Main purple | Primary brand signal — labels, accents, tags, interactive elements | #705CF6 |
+| Dark purple | CTA sections, banners, full-bleed accent blocks | #38327C |
+| Light purple | Accent on dark backgrounds where main purple lacks contrast | #C5BDFA |
+| Off-white / Cream | Default page background | #FAF9F6 |
+| Near black | Dark sections, headings | #282828 |
+| Lime | Sparingly — highlights, metric values, emphasis in dark contexts only | #C5EF48 |
 
-The brand is shifting toward a **black + lime** primary palette. Lime is the energy — used for CTAs, highlights, and emphasis. Purple remains part of the system but plays a supporting role. Dark backgrounds with lime accents are the current direction.
+Purple is the primary brand color. Cream (#FAF9F6) is the default background. Lime is never dominant — it appears only in dark contexts for metric values, highlights, and CTA emphasis. See `brand-guidelines.txt` for the full visual system.
 
 ### Typography
 
