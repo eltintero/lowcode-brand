@@ -1,3 +1,13 @@
+---
+name: prime-brand
+description: Load LowCode Agency brand context, voice guidelines, and company knowledge into the current conversation
+user-invokable: true
+args:
+  - name: scope
+    description: "What to load: voice, content, company, design, or all (default: all)"
+    required: false
+---
+
 # Prime Brand
 
 Load LowCode Agency brand context, voice guidelines, and company knowledge into the current conversation.

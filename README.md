@@ -37,6 +37,7 @@ The single source of truth for everything about LowCode Agency — how we sound,
 | File | What it is | When to use it |
 |------|-----------|----------------|
 | **CASE_STUDIES.md** | All case studies organized by platform (Glide, Bubble, FlutterFlow, Webflow) with metrics and links | Proposals, blog posts, social proof, sales conversations |
+| **portfolio-highlights.md** | Curated portfolio showcase — tiered by impact, with metrics, quotes, timelines, and a "best project by use case" matching guide | Sales decks, proposals, social proof, picking the right case study for a prospect |
 | **working-preferences.md** | How Jesus wants AI tools to communicate and work with him | AI/Claude configuration — communication style, output format, priorities |
 
 ## Quick Reference

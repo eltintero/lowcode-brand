@@ -1,0 +1,12 @@
+{
+  "name": "lowcode-brand",
+  "description": "LowCode Agency brand kit — voice, visual guidelines, company context, writing rules, and content strategy. Single source of truth for all brand and identity docs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jesus Vargas",
+    "email": "jesus@lowcode.agency"
+  },
+  "homepage": "https://www.lowcode.agency",
+  "repository": "https://github.com/eltintero/lowcode-brand",
+  "skills": "./skills"
+}

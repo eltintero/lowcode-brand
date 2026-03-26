@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "lowcode-brand",
+  "metadata": {
+    "description": "Brand kit and content knowledge base for LowCode Agency"
+  },
+  "owner": {
+    "name": "Jesus Vargas",
+    "email": "jesus@lowcode.agency"
+  },
+  "plugins": [
+    {
+      "name": "lowcode-brand",
+      "description": "LowCode Agency brand kit — voice, visual guidelines, company context, writing rules, and content strategy.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jesus Vargas",
+        "email": "jesus@lowcode.agency"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://www.lowcode.agency",
+      "tags": ["brand", "voice", "content", "guidelines", "agency", "lowcode"]
+    }
+  ]
+}

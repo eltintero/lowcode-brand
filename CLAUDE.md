@@ -43,6 +43,7 @@
 | File | Contents |
 |------|----------|
 | `docs/reference/CASE_STUDIES.md` | All case studies by platform (Glide, Bubble, FlutterFlow, Webflow) |
+| `docs/reference/portfolio-highlights.md` | Curated portfolio — tiered projects, metrics, quotes, sales matching guide |
 | `docs/reference/working-preferences.md` | How Jesus wants Claude/AI to communicate and work |
 
 ## Available Skills
