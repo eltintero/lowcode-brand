@@ -47,7 +47,8 @@ Read all files in this order:
 8. `docs/company/team-members.md` — Team directory
 9. `docs/company/glossary.md` — Terms and acronyms
 10. `docs/reference/CASE_STUDIES.md` — Case studies
-11. `docs/reference/working-preferences.md` — Working preferences
+11. `docs/reference/portfolio-highlights.md` — Portfolio highlights
+12. `docs/reference/working-preferences.md` — Working preferences
 
 ### `voice` — Voice and tone only
 Read:
@@ -64,6 +65,7 @@ Read:
 5. `docs/content/jesus-vargas-voice-profile.md`
 6. `docs/content/content-strategy.md`
 7. `docs/reference/CASE_STUDIES.md`
+8. `docs/reference/portfolio-highlights.md`
 
 ### `company` — Company context
 Read:
@@ -72,6 +74,7 @@ Read:
 3. `docs/company/team-members.md`
 4. `docs/company/glossary.md`
 5. `docs/reference/CASE_STUDIES.md`
+6. `docs/reference/portfolio-highlights.md`
 
 ### `design` — Visual and brand design context
 Read:

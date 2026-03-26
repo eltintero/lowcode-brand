@@ -22,7 +22,7 @@ Juiced is a dynamic platform connecting TikTok influencers with brand opportunit
 
 ### 4. Toycycle (MVP)
 
-We created ToyCycle, a safe and supervised toy trading platform using Glide that connects kids within their school communities. The solution features parental oversight for all transactions, chat messages, and listing approvals, combined with an intuitive interface for young users. Achieved 30% month-over-month growth in active users and a 90% parent satisfaction rate by prioritizing safety and engagement.
+We created ToyCycle, a safe and supervised toy trading platform using FlutterFlow that connects kids within their school communities. The solution features parental oversight for all transactions, chat messages, and listing approvals, combined with an intuitive interface for young users. Achieved 30% month-over-month growth in active users and a 90% parent satisfaction rate by prioritizing safety and engagement.
 
 **Link:** https://www.lowcode.agency/case-studies/toycycle
 
@@ -64,9 +64,13 @@ Copious.Land is a business app we created using Bubble, a specialized marketplac
 
 When The Attributes outgrew their Webflow MVP, they partnered with LowCode Agency to rebuild on Bubble. In just 4 months, we launched a custom app with team assessments, role-based access, enterprise dashboards, and advanced reporting. The result? 3,000+ active users, full ROI in 6 months, and ongoing growth powered by AI features like personalized insights, team dynamics analysis, and adaptive learning tools.
 
+**Link:** https://www.lowcode.agency/case-studies/the-attributes
+
 ### 7. CareerNerds (Apps for Business)
 
 We built a client management app in Bubble for CareerNerds, a coaching company offering a 6-12 month personal branding and networking program. The solution includes multi-role dashboards, task tracking, coach-client messaging, and a custom LinkedIn profile builder. It replaced hundreds of Google Sheets and enabled a 75% reduction in admin work and a 40% increase in coaching productivity.
+
+**Link:** https://www.lowcode.agency/case-studies/career-nerds
 
 ---
 

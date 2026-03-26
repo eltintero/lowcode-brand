@@ -4,7 +4,7 @@
 
 ## Quick Reference
 
-**Company:** LowCode Agency (LOW / CODE) — 40-person software dev agency. 300+ projects. Clients include Sotheby's, American Express, Coca-Cola, Medtronic, Zapier, GAF. 7-figure annual revenue.
+**Company:** LowCode Agency (LOW / CODE) — 40-person software dev agency. 350+ projects. Clients include Sotheby's, American Express, Coca-Cola, Medtronic, Zapier, GAF. 7-figure annual revenue.
 
 **Positioning:** "Fast isn't enough. We build forward, think strategically, and run as a product team."
 

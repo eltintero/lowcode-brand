@@ -6,7 +6,7 @@ I'm Jesus Vargas, founder and CEO of **LowCode Agency** — a 40-person software
 
 I split my time between **Miami and Cancun**. My team is fully remote — mostly in Latin America, with a few in Europe and 3-4 in Asia.
 
-I'm an entrepreneur first, a builder second, and an educator third. I don't come from a technical background. I discovered no-code tools in 2019 when I found Glide on Product Hunt and built a mini-CRM for my solar panel company in 3 hours. My first paid project was a $1,000 Airbnb management app. Six years later, we've built 300+ apps for clients like Sotheby's, American Express, Coca-Cola, Medtronic, Zapier, and GAF.
+I'm an entrepreneur first, a builder second, and an educator third. I don't come from a technical background. I discovered no-code tools in 2019 when I found Glide on Product Hunt and built a mini-CRM for my solar panel company in 3 hours. My first paid project was a $1,000 Airbnb management app. Six years later, we've built 350+ apps for clients like Sotheby's, American Express, Coca-Cola, Medtronic, Zapier, and GAF.
 
 ## Background
 
@@ -37,7 +37,7 @@ I create content about no-code development, AI, entrepreneurship, and digital tr
 
 | Platform | Handle/URL | Focus |
 |----------|-----------|-------|
-| Twitter/X | [@eltintero](https://twitter.com/jesusvargas) | Hot takes, no-code/AI insights, entrepreneurship |
+| Twitter/X | [@eltintero](https://x.com/eltintero) | Hot takes, no-code/AI insights, entrepreneurship |
 | YouTube | [@lowcodeagency](https://www.youtube.com/@lowcodeagency) | Tutorials, platform deep-dives, agency content |
 | LinkedIn | [jesusvargas](https://www.linkedin.com/in/jesusvargas/) | Professional thought leadership |
 | Newsletter | [El Tintero](https://eltintero.substack.com/) | Data-driven analysis of tech, business, and culture |
@@ -64,7 +64,7 @@ I create content about no-code development, AI, entrepreneurship, and digital tr
 
 - **Founded**: 2020
 - **Team**: 40 professionals
-- **Projects**: 300+ completed
+- **Projects**: 350+ completed
 - **Annual volume**: ~100 projects/year
 - **Revenue**: 7-figure annual (many clients at 6 figures/year)
 - **Active users**: 35,000+ on apps we've built
