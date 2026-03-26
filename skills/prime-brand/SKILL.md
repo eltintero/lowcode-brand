@@ -1,3 +1,8 @@
+---
+name: prime-brand
+description: Load LowCode Agency brand context, voice guidelines, and company knowledge into the current conversation. Use before writing content, designing UI/UX, drafting proposals, or any brand-sensitive work.
+---
+
 # Prime Brand
 
 Load LowCode Agency brand context, voice guidelines, and company knowledge into the current conversation.

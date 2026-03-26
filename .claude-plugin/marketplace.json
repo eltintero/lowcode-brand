@@ -1,0 +1,21 @@
+{
+  "name": "lowcode-brand",
+  "owner": {
+    "name": "Jesus Vargas",
+    "url": "https://github.com/eltintero"
+  },
+  "metadata": {
+    "description": "LowCode Agency brand context, voice guidelines, and company knowledge.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "lowcode-brand",
+      "source": "./",
+      "description": "LowCode Agency brand context, voice guidelines, and company knowledge.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["brand", "voice", "lowcode"]
+    }
+  ]
+}

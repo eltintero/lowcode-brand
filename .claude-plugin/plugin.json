@@ -1,0 +1,11 @@
+{
+  "name": "lowcode-brand",
+  "version": "1.0.0",
+  "description": "LowCode Agency brand context, voice guidelines, and company knowledge.",
+  "author": {
+    "name": "Jesus Vargas",
+    "url": "https://github.com/eltintero"
+  },
+  "repository": "https://github.com/eltintero/lowcode-brand",
+  "license": "MIT"
+}
