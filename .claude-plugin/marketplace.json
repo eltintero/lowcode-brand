@@ -1,4 +1,12 @@
 {
+  "name": "lowcode-brand",
+  "owner": {
+    "name": "Jesus Vargas",
+    "url": "https://github.com/eltintero"
+  },
+  "metadata": {
+    "description": "LowCode Agency brand context, voice guidelines, and company knowledge.",
+    "version": "1.0.0"
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "lowcode-brand",
   "metadata": {
@@ -11,6 +19,11 @@
   "plugins": [
     {
       "name": "lowcode-brand",
+      "source": "./",
+      "description": "LowCode Agency brand context, voice guidelines, and company knowledge.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["brand", "voice", "lowcode"]
       "description": "LowCode Agency brand kit — voice, visual guidelines, company context, writing rules, and content strategy.",
       "version": "1.0.0",
       "author": {
