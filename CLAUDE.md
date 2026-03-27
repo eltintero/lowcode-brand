@@ -4,13 +4,13 @@
 
 ## Quick Reference
 
-**Company:** LowCode Agency (LOW / CODE) — 40-person software dev agency. 300+ projects. Clients include Sotheby's, American Express, Coca-Cola, Medtronic, Zapier, GAF. 7-figure annual revenue.
+**Company:** LowCode Agency (LOW / CODE) — 40-person software dev agency. 350+ projects. Clients include Sotheby's, American Express, Coca-Cola, Medtronic, Zapier, GAF. 7-figure annual revenue.
 
 **Positioning:** "Fast isn't enough. We build forward, think strategically, and run as a product team."
 
 **Stack:** Low-code (Bubble, FlutterFlow, Glide) + High-code (React, Next.js, Supabase) + AI (n8n, Cursor, Claude Code)
 
-**Brand palette:** Black + Lime (#C5EF48) primary direction. Purple (#705CF6 / #38327C) supporting. Off-white (#FAF9F6). Typography: Inter.
+**Brand palette:** Purple (#705CF6) primary. Dark purple (#38327C) for CTAs/banners. Cream (#FAF9F6) default background. Lime (#C5EF48) sparingly — dark contexts only. Typography: Inter.
 
 **Logo:** Written as LOW / CODE — forward slash always present.
 
@@ -34,7 +34,6 @@
 | File | Contents |
 |------|----------|
 | `docs/content/WRITING_GUIDELINES.md` | Full writing rules — AEO, structure, headers, answer boxes, FAQ format |
-| `docs/content/CONTENT_GUIDELINES.md` | Blog-specific guidelines (SEO team) |
 | `docs/content/CONTENT_PROMPTS.md` | Outline and article generation prompts |
 | `docs/content/content-strategy.md` | Platforms, topical pillars, content types, voice by channel |
 | `docs/content/jesus-vargas-voice-profile.md` | Deep personal voice profile for content written as Jesus |
@@ -43,6 +42,7 @@
 | File | Contents |
 |------|----------|
 | `docs/reference/CASE_STUDIES.md` | All case studies by platform (Glide, Bubble, FlutterFlow, Webflow) |
+| `docs/reference/portfolio-highlights.md` | Curated portfolio — tiered projects, metrics, quotes, sales matching guide |
 | `docs/reference/working-preferences.md` | How Jesus wants Claude/AI to communicate and work |
 
 ## Available Skills

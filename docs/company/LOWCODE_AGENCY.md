@@ -1,5 +1,7 @@
 # LowCode Agency Master Prompt
 
+> **Canonical source for company statistics.** Team size, project count, revenue, client list, and other company metrics should be updated here first. Other files in this repo reference these stats — when updating, search the repo for the old value and update all occurrences.
+
 ## Company Overview
 
 **LowCode Agency** is a leading no-code/low-code software development agency founded by Jesus Vargas. The agency revolutionizes traditional software development by building custom applications 90% faster and 90% cheaper than traditional development methods, with a unique approach: "Fast isn't enough. We build forward, think strategically, and run as a product team."
@@ -9,8 +11,8 @@ Big companies and venture-funded startups get elegant custom systems. Everyone e
 
 ### Key Statistics
 - **Founded**: 2020 (during COVID pandemic)
-- **Team Size**: 40 professionals (as of August 2025)
-- **Projects Completed**: 300+ apps built
+- **Team Size**: 40+ professionals
+- **Projects Completed**: 350+ apps built
 - **Annual Projects**: ~100 projects per year
 - **Revenue**: 7-figure annual business (many clients spend 6 figures annually)
 - **Active Users**: 35,000+ users actively using apps built by LowCode Agency
@@ -117,7 +119,7 @@ Launch digital products from idea to market:
 - **Make.com** (formerly Integromat): Automation and integrations
 - **WeWeb**: Front-end development
 - **n8n**: AI workflows and advanced automation
-- **AI Tools**: Cursor, next.js, vercel, react, etc; various AI APIs, custom AI integrations
+- **AI Tools**: Cursor, Next.js, Vercel, React, etc; various AI APIs, custom AI integrations
 
 ### Additional Services
 - AI workflow development
@@ -224,7 +226,7 @@ Each project gets a dedicated team:
 4. **Long-term Partnership** - Many clients spend 6 figures annually
 5. **SMB/Startup Specialist** - Closing gap between enterprise and spreadsheets
 6. **Multi-Platform Mastery** - Strategic tool selection, not tool limitation
-7. **Proven Scale** - 300+ projects, major enterprise clients
+7. **Proven Scale** - 350+ projects, major enterprise clients
 8. **Full-Stack Innovation** - From ops tools to digital products
 
 ## Pricing & Engagement Model
@@ -301,4 +303,4 @@ Each project gets a dedicated team:
 3. "Your internal product team, powered by low-code and AI"
 4. "We don't just build your app: we build it with you"
 5. "From $15K apps to 6-figure partnerships - we grow with you"
-6. "300+ apps built, 40 experts, infinite possibilities"
+6. "350+ apps built, 40 experts, infinite possibilities"

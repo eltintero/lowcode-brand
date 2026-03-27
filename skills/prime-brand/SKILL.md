@@ -1,6 +1,11 @@
 ---
 name: prime-brand
-description: Load LowCode Agency brand context, voice guidelines, and company knowledge into the current conversation. Use before writing content, designing UI/UX, drafting proposals, or any brand-sensitive work.
+description: Load LowCode Agency brand context, voice guidelines, and company knowledge into the current conversation
+user-invokable: true
+args:
+  - name: scope
+    description: "What to load: voice, content, company, design, or all (default: all)"
+    required: false
 ---
 
 # Prime Brand
@@ -42,7 +47,8 @@ Read all files in this order:
 8. `docs/company/team-members.md` — Team directory
 9. `docs/company/glossary.md` — Terms and acronyms
 10. `docs/reference/CASE_STUDIES.md` — Case studies
-11. `docs/reference/working-preferences.md` — Working preferences
+11. `docs/reference/portfolio-highlights.md` — Portfolio highlights
+12. `docs/reference/working-preferences.md` — Working preferences
 
 ### `voice` — Voice and tone only
 Read:
@@ -54,11 +60,11 @@ Read:
 Read:
 1. `docs/brand/brand-voice.md`
 2. `docs/content/WRITING_GUIDELINES.md`
-3. `docs/content/CONTENT_GUIDELINES.md`
-4. `docs/content/CONTENT_PROMPTS.md`
-5. `docs/content/jesus-vargas-voice-profile.md`
-6. `docs/content/content-strategy.md`
-7. `docs/reference/CASE_STUDIES.md`
+3. `docs/content/CONTENT_PROMPTS.md`
+4. `docs/content/jesus-vargas-voice-profile.md`
+5. `docs/content/content-strategy.md`
+6. `docs/reference/CASE_STUDIES.md`
+7. `docs/reference/portfolio-highlights.md`
 
 ### `company` — Company context
 Read:
@@ -67,6 +73,7 @@ Read:
 3. `docs/company/team-members.md`
 4. `docs/company/glossary.md`
 5. `docs/reference/CASE_STUDIES.md`
+6. `docs/reference/portfolio-highlights.md`
 
 ### `design` — Visual and brand design context
 Read:

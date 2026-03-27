@@ -27,7 +27,6 @@ The single source of truth for everything about LowCode Agency — how we sound,
 | File | What it is | When to use it |
 |------|-----------|----------------|
 | **WRITING_GUIDELINES.md** | Full writing rulebook — AEO optimization, article structure, header formatting, answer boxes, FAQ format, quality checklist | Writing any blog post, landing page, or SEO content |
-| **CONTENT_GUIDELINES.md** | Blog-specific guidelines for the SEO team — tone, structure, keyword rules, intro/conclusion format | Blog posts and SEO articles specifically |
 | **CONTENT_PROMPTS.md** | Prompts for outline creation and article generation | Starting a new blog post from a keyword |
 | **content-strategy.md** | Platform strategy (LinkedIn, Twitter, YouTube, Newsletter), topical pillars, voice by channel, content pipeline | Planning content, choosing the right tone for each platform |
 | **jesus-vargas-voice-profile.md** | Deep personal voice profile — rhetorical habits, tone spectrum, personality traits, formatting DNA | Writing anything in Jesus's voice — newsletters, LinkedIn, Twitter, YouTube scripts |
@@ -37,6 +36,7 @@ The single source of truth for everything about LowCode Agency — how we sound,
 | File | What it is | When to use it |
 |------|-----------|----------------|
 | **CASE_STUDIES.md** | All case studies organized by platform (Glide, Bubble, FlutterFlow, Webflow) with metrics and links | Proposals, blog posts, social proof, sales conversations |
+| **portfolio-highlights.md** | Curated portfolio showcase — tiered by impact, with metrics, quotes, timelines, and a "best project by use case" matching guide | Sales decks, proposals, social proof, picking the right case study for a prospect |
 | **working-preferences.md** | How Jesus wants AI tools to communicate and work with him | AI/Claude configuration — communication style, output format, priorities |
 
 ## Quick Reference
@@ -44,11 +44,11 @@ The single source of truth for everything about LowCode Agency — how we sound,
 | | |
 |---|---|
 | **Logo** | LOW / CODE (forward slash always present) |
-| **Primary palette** | Black + Lime (#C5EF48) |
-| **Supporting** | Purple (#705CF6 / #38327C), Off-white (#FAF9F6) |
+| **Primary palette** | Purple (#705CF6), Dark purple (#38327C), Cream (#FAF9F6) |
+| **Accent** | Lime (#C5EF48) — sparingly, dark contexts only |
 | **Typography** | Inter (Bold titles, Regular body, Semi Bold buttons) |
 | **Tagline** | "Fast isn't enough. We build forward, think strategically, and run as a product team." |
-| **Key stats** | 40 team / 300+ projects / 7-figure revenue / Sotheby's, AMEX, Coca-Cola, Zapier |
+| **Key stats** | 40 team / 350+ projects / 7-figure revenue / Sotheby's, AMEX, Coca-Cola, Zapier |
 
 ## Setup (Claude Code Plugin)
 
@@ -118,12 +118,12 @@ lowcode-brand/
 │   │   └── glossary.md                    # Internal terms and acronyms
 │   ├── content/
 │   │   ├── WRITING_GUIDELINES.md          # Full writing rules (AEO, structure)
-│   │   ├── CONTENT_GUIDELINES.md          # Blog-specific guidelines (SEO team)
 │   │   ├── CONTENT_PROMPTS.md             # Outline and article generation prompts
 │   │   ├── content-strategy.md            # Platforms, pillars, voice by channel
 │   │   └── jesus-vargas-voice-profile.md  # Personal voice profile
 │   └── reference/
 │       ├── CASE_STUDIES.md                # All case studies by platform
+│       ├── portfolio-highlights.md        # Tiered portfolio showcase with metrics and quotes
 │       └── working-preferences.md         # AI working preferences
 └── skills/
     └── prime-brand/

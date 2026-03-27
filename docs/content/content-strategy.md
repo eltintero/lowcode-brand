@@ -31,7 +31,7 @@ Become the go-to thought leader in **AI-powered software development for SMBs an
 - **Tone**: Sharp, concise, opinionated. Less formal than LinkedIn.
 - **Topics**: AI news reactions, no-code/AI tips, entrepreneurship, quick insights
 - **Goal**: Stay visible, engage with the builder community, drive followers to deeper content
-- **Handle**: [@eltintero](https://twitter.com/jesusvargas)
+- **Handle**: [@eltintero](https://x.com/eltintero)
 
 ### Newsletter — El Tintero (Deep dives)
 - **Format**: Long-form analysis, data-driven storytelling

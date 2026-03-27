@@ -22,6 +22,7 @@
 | Giuliana Tregnaghi | Designer |
 | Fernando Marins | Designer |
 | Enrique Patinho | Designer |
+| Daniel | Designer |
 
 ### Project Management (8)
 
